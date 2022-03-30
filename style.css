@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(90deg, blue, black, blue);
+}
+canvas,video{
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+}
+
+video{
+    border: 25px solid white;
+    background-color:white;
+}
